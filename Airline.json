@@ -8,20 +8,20 @@
     {
       "aircraft": "B787",
       "livery": "OEA Normal (AF Style)",
-      "texture": "https://raw.githubusercontent.com/YOURUSERNAME/OEA-Airline/main/liveries/oea_787_normal_airfrance.png",
-      "thumbnail": "https://raw.githubusercontent.com/YOURUSERNAME/OEA-Airline/main/thumbnails/oea_787_normal_thumb.png"
+      "texture": "https://raw.githubusercontent.com/AIRPLANESAVIATION2361/OEA-Airline/main/liveries/oea_787_normal_airfrance.png",
+      "thumbnail": "https://raw.githubusercontent.com/AIRPLANESAVIATION2361/OEA-Airline/main/thumbnails/oea_787_normal_thumb.png"
     },
     {
       "aircraft": "B787",
       "livery": "OEA Alliance",
-      "texture": "https://raw.githubusercontent.com/YOURUSERNAME/OEA-Airline/main/liveries/oea_787_alliance.png",
-      "thumbnail": "https://raw.githubusercontent.com/YOURUSERNAME/OEA-Airline/main/thumbnails/oea_787_alliance_thumb.png"
+      "texture": "https://raw.githubusercontent.com/AIRPLANESAVIATION2361/OEA-Airline/main/liveries/oea_787_alliance.png",
+      "thumbnail": "https://raw.githubusercontent.com/AIRPLANESAVIATION2361/OEA-Airline/main/thumbnails/oea_787_alliance_thumb.png"
     },
     {
       "aircraft": "B787",
       "livery": "OEA Trans",
-      "texture": "https://raw.githubusercontent.com/YOURUSERNAME/OEA-Airline/main/liveries/oea_787_trans.png",
-      "thumbnail": "https://raw.githubusercontent.com/YOURUSERNAME/OEA-Airline/main/thumbnails/oea_787_trans_thumb.png"
+      "texture": "https://raw.githubusercontent.com/AIRPLANESAVIATION2361/OEA-Airline/main/liveries/oea_787_trans.png",
+      "thumbnail": "https://raw.githubusercontent.com/AIRPLANESAVIATION2361/OEA-Airline/main/thumbnails/oea_787_trans_thumb.png"
     }
   ]
 }

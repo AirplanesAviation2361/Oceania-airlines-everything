@@ -1,4 +1,4 @@
-# Oceania-airlines-everything
+# Oceania-airlines
 # ✈️ Oceanic Express Airways (OEA)
 
 **ICAO:** OEA  

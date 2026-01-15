@@ -1,0 +1,27 @@
+{
+  "name": "Oceanic Express Airways",
+  "icao": "OEA",
+  "callsign": "OCEANIC",
+  "hub": "NZAA",
+  "description": "Oceanic Express Airways (OEA) is an all-Boeing 787 virtual airline. The normal livery uses an Air France-style design. OEA is the founder of the OEA Alliance.",
+  "fleet": [
+    {
+      "aircraft": "B787",
+      "livery": "OEA Normal (AF Style)",
+      "texture": "https://raw.githubusercontent.com/YOURUSERNAME/OEA-Airline/main/liveries/oea_787_normal_airfrance.png",
+      "thumbnail": "https://raw.githubusercontent.com/YOURUSERNAME/OEA-Airline/main/thumbnails/oea_787_normal_thumb.png"
+    },
+    {
+      "aircraft": "B787",
+      "livery": "OEA Alliance",
+      "texture": "https://raw.githubusercontent.com/YOURUSERNAME/OEA-Airline/main/liveries/oea_787_alliance.png",
+      "thumbnail": "https://raw.githubusercontent.com/YOURUSERNAME/OEA-Airline/main/thumbnails/oea_787_alliance_thumb.png"
+    },
+    {
+      "aircraft": "B787",
+      "livery": "OEA Trans",
+      "texture": "https://raw.githubusercontent.com/YOURUSERNAME/OEA-Airline/main/liveries/oea_787_trans.png",
+      "thumbnail": "https://raw.githubusercontent.com/YOURUSERNAME/OEA-Airline/main/thumbnails/oea_787_trans_thumb.png"
+    }
+  ]
+}

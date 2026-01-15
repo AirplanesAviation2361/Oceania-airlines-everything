@@ -25,3 +25,10 @@
     }
   ]
 }
+
+git init
+git add .
+git commit -m "Initial commit for Oceania Airlines"
+git branch -M main
+git remote add origin https://github.com/AirplanesAviation2361/Oceania-airlines-everything.git
+git push -u origin main

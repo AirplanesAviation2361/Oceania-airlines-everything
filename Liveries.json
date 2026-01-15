@@ -6,23 +6,23 @@
     {
       "name": "OEA Normal (Air France Style)",
       "type": "normal",
-      "description": "Standard OEA livery using an Air France–style design example.",
-      "texture": "https://raw.githubusercontent.com/YOURUSERNAME/OEA-Airline/main/liveries/oea_787_normal_airfrance.png",
-      "thumbnail": "https://raw.githubusercontent.com/YOURUSERNAME/OEA-Airline/main/thumbnails/oea_787_normal_thumb.png"
+      "description": "Standard OEA livery using an Air France–style design.",
+      "texture": "https://raw.githubusercontent.com/AIRPLANESAVIATION2361/OEA-Airline/main/liveries/oea_787_normal_airfrance.png",
+      "thumbnail": "https://raw.githubusercontent.com/AIRPLANESAVATION2361/OEA-Airline/main/thumbnails/oea_787_normal_thumb.png"
     },
     {
       "name": "OEA Alliance",
       "type": "alliance",
       "description": "Alliance livery representing all OEA Alliance partner airlines.",
-      "texture": "https://raw.githubusercontent.com/YOURUSERNAME/OEA-Airline/main/liveries/oea_787_alliance.png",
-      "thumbnail": "https://raw.githubusercontent.com/YOURUSERNAME/OEA-Airline/main/thumbnails/oea_787_alliance_thumb.png"
+      "texture": "https://raw.githubusercontent.com/AIRPLANESAVIATION2361/OEA-Airline/main/liveries/oea_787_alliance.png",
+      "thumbnail": "https://raw.githubusercontent.com/AIRPLANESAVIATION2361/OEA-Airline/main/thumbnails/oea_787_alliance_thumb.png"
     },
     {
       "name": "OEA Trans",
       "type": "trans",
       "description": "Long-haul and intercontinental OEA Trans livery.",
-      "texture": "https://raw.githubusercontent.com/YOURUSERNAME/OEA-Airline/main/liveries/oea_787_trans.png",
-      "thumbnail": "https://raw.githubusercontent.com/YOURUSERNAME/OEA-Airline/main/thumbnails/oea_787_trans_thumb.png"
+      "texture": "https://raw.githubusercontent.com/AIRPLANESAVIATION2361/OEA-Airline/main/liveries/oea_787_trans.png",
+      "thumbnail": "https://raw.githubusercontent.com/AIRPLANESAVIATION2361/OEA-Airline/main/thumbnails/oea_787_trans_thumb.png"
     }
   ]
 }

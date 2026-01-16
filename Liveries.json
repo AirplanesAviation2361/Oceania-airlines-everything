@@ -1,0 +1,79 @@
+{
+  "icao": "OEA",
+  "airline": "Oceanic Express Airways",
+  "callsign": "OCEANIC",
+  "hub": "NZAA",
+  "aircraft": "B787",
+  "fleetType": "Widebody Only",
+  "description": "Oceanic Express Airways is an all-Boeing 787 virtual airline and founder of the OEA Alliance.",
+  "liveries": [
+    {
+      "id": "oea-normal-af",
+      "name": "OEA Normal – Air France Style",
+      "category": "normal",
+      "role": "Standard Operations",
+      "texture": "https://raw.githubusercontent.com/AIRPLANESAVIATION2361/OEA-Airline/main/liveries/oea_787_normal_airfrance.png",
+      "thumbnail": "https://raw.githubusercontent.com/AIRPLANESAVIATION2361/OEA-Airline/main/thumbnails/oea_787_normal_thumb.png"
+    },
+
+    {
+      "id": "oea-alliance-airfrance",
+      "name": "OEA Alliance – Air France",
+      "category": "alliance",
+      "role": "Alliance Partner",
+      "partner": "Air France",
+      "texture": "https://raw.githubusercontent.com/AIRPLANESAVIATION2361/OEA-Airline/main/liveries/oea_787_alliance_airfrance.png",
+      "thumbnail": "https://raw.githubusercontent.com/AIRPLANESAVIATION2361/OEA-Airline/main/thumbnails/oea_787_alliance_airfrance_thumb.png"
+    },
+
+    {
+      "id": "oea-alliance-british",
+      "name": "OEA Alliance – British Airways",
+      "category": "alliance",
+      "role": "Alliance Partner",
+      "partner": "British Airways",
+      "texture": "https://raw.githubusercontent.com/AIRPLANESAVIATION2361/OEA-Airline/main/liveries/oea_787_alliance_british.png",
+      "thumbnail": "https://raw.githubusercontent.com/AIRPLANESAVIATION2361/OEA-Airline/main/thumbnails/oea_787_alliance_british_thumb.png"
+    },
+
+    {
+      "id": "oea-alliance-delta",
+      "name": "OEA Alliance – Delta Air Lines",
+      "category": "alliance",
+      "role": "Alliance Partner",
+      "partner": "Delta Air Lines",
+      "texture": "https://raw.githubusercontent.com/AIRPLANESAVIATION2361/OEA-Airline/main/liveries/oea_787_alliance_delta.png",
+      "thumbnail": "https://raw.githubusercontent.com/AIRPLANESAVIATION2361/OEA-Airline/main/thumbnails/oea_787_alliance_delta_thumb.png"
+    },
+
+    {
+      "id": "oea-alliance-spirit",
+      "name": "OEA Alliance – Spirit Airlines",
+      "category": "alliance",
+      "role": "Alliance Partner",
+      "partner": "Spirit Airlines",
+      "texture": "https://raw.githubusercontent.com/AIRPLANESAVIATION2361/OEA-Airline/main/liveries/oea_787_alliance_spirit.png",
+      "thumbnail": "https://raw.githubusercontent.com/AIRPLANESAVIATION2361/OEA-Airline/main/thumbnails/oea_787_alliance_spirit_thumb.png"
+    },
+
+    {
+      "id": "oea-alliance-american",
+      "name": "OEA Alliance – American Airlines",
+      "category": "alliance",
+      "role": "Alliance Partner",
+      "partner": "American Airlines",
+      "texture": "https://raw.githubusercontent.com/AIRPLANESAVIATION2361/OEA-Airline/main/liveries/oea_787_alliance_american.png",
+      "thumbnail": "https://raw.githubusercontent.com/AIRPLANESAVIATION2361/OEA-Airline/main/thumbnails/oea_787_alliance_american_thumb.png"
+    },
+
+    {
+      "id": "oea-alliance-emirates",
+      "name": "OEA Alliance – Emirates",
+      "category": "alliance",
+      "role": "Alliance Partner",
+      "partner": "Emirates",
+      "texture": "https://raw.githubusercontent.com/AIRPLANESAVIATION2361/OEA-Airline/main/liveries/oea_787_alliance_emirates.png",
+      "thumbnail": "https://raw.githubusercontent.com/AIRPLANESAVIATION2361/OEA-Airline/main/thumbnails/oea_787_alliance_emirates_thumb.png"
+    }
+  ]
+}
